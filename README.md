@@ -1,2 +1,6 @@
-# pageant_auto_input_passphrase
+# 概要
 pagentを起動して、passphraseを自動入力するアプリケーションです
+
+## 使用上の注意
+コンパイル後のアプリケーションの使用は自己責任でお願いいたします。
+
