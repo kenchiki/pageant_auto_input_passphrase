@@ -1,0 +1,2 @@
+# pageant_auto_input_passphrase
+pagentを起動して、passphraseを自動入力するアプリケーションです
