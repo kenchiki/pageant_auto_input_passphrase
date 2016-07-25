@@ -1,0 +1,3 @@
+C:\Users\panda\Downloads\pageant\bin\Release\pageant.exe
+C:\Users\panda\Downloads\pageant\obj\Release\pageant.csprojResolveAssemblyReference.cache
+C:\Users\panda\Downloads\pageant\obj\Release\pageant.exe

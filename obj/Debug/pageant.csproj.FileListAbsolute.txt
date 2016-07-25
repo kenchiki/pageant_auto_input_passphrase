@@ -1,0 +1,5 @@
+C:\Users\panda\Downloads\pageant\obj\Debug\pageant.csprojResolveAssemblyReference.cache
+C:\Users\panda\Downloads\pageant\bin\Debug\pageant.exe
+C:\Users\panda\Downloads\pageant\bin\Debug\pageant.pdb
+C:\Users\panda\Downloads\pageant\obj\Debug\pageant.exe
+C:\Users\panda\Downloads\pageant\obj\Debug\pageant.pdb

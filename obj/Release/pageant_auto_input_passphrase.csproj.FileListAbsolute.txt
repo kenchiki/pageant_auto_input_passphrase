@@ -1,0 +1,3 @@
+C:\Users\panda\Downloads\pageant\bin\Release\pageant_auto_input_passphrase.exe
+C:\Users\panda\Downloads\pageant\obj\Release\pageant_auto_input_passphrase.csprojResolveAssemblyReference.cache
+C:\Users\panda\Downloads\pageant\obj\Release\pageant_auto_input_passphrase.exe
